@@ -1,23 +1,23 @@
 [
    {
-      "title":"Aimbot",
-      "credits": "Készitette Pravus",
+      "title":"Novaley Hub",
+      "credits": "Készitette Novaley Hub",
       "desc" : "",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/voidstardev/vehicle-speed/main/mainhub/freekey.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
-    "title":"Alt delete",
-      "credits": "Készitette unknown",
+    "title":"Milan's Hub",
+      "credits": "Készitette beluga",
       "desc" : "",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
-      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/voidstardev/vehicle-speed/main/milansscripthub.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
-    "title":"Anti-AFK",
-      "credits": "Készitette Rice",
-      "desc" : "Elvileg nem működik!",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Anti-AFK.lua\"))()",
+    "title":"Vongi2's Hub",
+      "credits": "Készitette scemer",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/voidstardev/vehicle-speed/main/milanhub.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
