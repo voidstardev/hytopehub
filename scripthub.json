@@ -1,0 +1,107 @@
+[
+   {
+      "title":"Aimbot",
+      "credits": "Készitette Pravus",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
+   },
+   {
+    "title":"Alt delete",
+      "credits": "Készitette unknown",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AltDelete.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
+   },
+   {
+    "title":"Anti-AFK",
+      "credits": "Készitette Rice",
+      "desc" : "Elvileg nem működik!",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Anti-AFK.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
+   },
+   {
+    "title":"Audio logger",
+      "credits": "Készitette bit8bit",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/AudioLogger.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AudioLogger.png"
+   },
+   {
+    "title":"Click TP cool",
+      "credits": "Készitette unknown",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/ClickTPTool.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/ClickTeleport.png"
+   },
+   {
+    "title":"Dark Dex V4",
+      "credits": "Készitette Moon and Courtney",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/DarkDexV4.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/DarkDexV4.png"
+   },
+   {
+    "title":"ESP",
+      "credits": "Készitette unknown",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/ESP.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/ESP.png"
+   },
+   {
+    "title":"Fly",
+      "credits": "Készitette unknown",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Fly.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/Fly.png"
+   },
+   {
+    "title":"Hitbox Extender",
+      "credits": "Készitette Squares",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/HitboxExtender.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/HitboxExtender.png"
+   },
+   {
+    "title":"Infinite Yield",
+      "credits": "Készitette EdgeIY",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Infinite%20Yield.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/InfiniteYield.png"
+   },
+   {
+    "title":"Infinite jump",
+      "credits": "Készitette unknown",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/InfiniteJump.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/InfiniteJump.png"
+   },
+   {
+    "title":"Invisible fling",
+      "credits": "Készitette Diemiers",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/InvisibleFling.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/InvisibleFling.png"
+   },
+   {
+    "title":"Retrofiy",
+      "credits": "Készitette BeyondThe5D",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/Retroify.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/Retroify.png"
+   },
+   {
+    "title":"Revis Admin",
+      "credits": "Készitette a bunch of devs",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/RevisAdmin.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/RevizAdmin.png"
+   },
+   {
+    "title":"Talk in emoji",
+      "credits": "Készitette Edge",
+      "desc" : "",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/GeneralScripts/TalkInEmoji.lua\"))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/TalkInEmoji.png"
+   }
+]
