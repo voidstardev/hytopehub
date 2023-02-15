@@ -14,10 +14,10 @@
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
-    "title":"Vongi2's Hub",
-      "credits": "Készitette scemer",
+    "title":"Kocsi Gyorsaság",
+      "credits": "Készitette hecker",
       "desc" : "",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/voidstardev/vehicle-speed/main/milanhub.lua\"))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/voidstardev/vehicle-speed/main/mennyelelore/vehiclee.lua\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
